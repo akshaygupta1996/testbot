@@ -1,0 +1,27 @@
+{
+  "name": "planyourtour",
+  "version": "1.0.0",
+  "description": "simple bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akshaygupta1996/testbot.git"
+  },
+  "keywords": [
+    "bot"
+  ],
+  "author": "akshay",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/akshaygupta1996/testbot/issues"
+  },
+  "homepage": "https://github.com/akshaygupta1996/testbot#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "request": "^2.75.0"
+  }
+}
